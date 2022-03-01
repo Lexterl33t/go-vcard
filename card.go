@@ -28,6 +28,7 @@ const (
 	ParamSortAs        = "SORT-AS"
 	ParamGeolocation   = "GEO"
 	ParamTimezone      = "TZ"
+	ParamEncoding	   = "ENCODING"
 )
 
 // Card properties.
